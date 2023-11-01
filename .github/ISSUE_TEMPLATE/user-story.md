@@ -7,7 +7,7 @@ assignees: Grampers-Dev
 
 ---
 
-As a **receive benefit** I can **role** so that **goal/desire**
+In order to **receive benefit** As a **role** I can **goal/desire**
 
 **Acceptance Criteria:**
 - [Acceptance criteria 1:]
